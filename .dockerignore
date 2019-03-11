@@ -1,2 +1,6 @@
-docker/
-bitbucket-pipelines.yml
+README.md
+.dockerignore
+roslab.yaml
+roslab.dockerfile
+roslab_build.sh
+roslab_run.sh
